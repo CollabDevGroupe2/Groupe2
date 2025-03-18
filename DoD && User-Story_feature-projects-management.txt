@@ -4,7 +4,7 @@ Description de la fonctionnalité :
 
 La fonctionnalité de création et gestion des projets permet à l'utilisateur de créer de nouveaux projets, de les organiser et de les suivre tout au long de leur avancement. 
 
-Critères d'acceptation 
+feature-projects-management est dit DoD seulement si les niveaux ci-dessous sont acceptable:
 
 Fonctionnalité :
 1. Les utilisateurs peuvent proposer des idées de projets en fournissant un titre, une description et des tags.
