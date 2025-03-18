@@ -2,19 +2,17 @@ Définition de la fonctionnalité 'Création et gestion des projets' dans Collab
 
 Description de la fonctionnalité :
 
-La fonctionnalité de création et gestion des projets permet à l'utilisateur de créer de 
-nouveaux projets, de les organiser et de les suivre tout au long de leur avancement. 
+La fonctionnalité de création et gestion des projets permet à l'utilisateur de créer de nouveaux projets, de les organiser et de les suivre tout au long de leur avancement. 
 
-Critères d'acceptation :
+Critères d'acceptation 
 
 Fonctionnalité :
 1. Les utilisateurs peuvent proposer des idées de projets en fournissant un titre, une description et des tags.
 2. Les utilisateurs peuvent collaborer à l'élaboration des projets en ajoutant des commentaires, des suggestions ou en votant pour les idées.
 3. Les utilisateurs peuvent participer au développement des projets en soumettant des fonctionnalités ou du code source.
-4. Les utilisateurs peuvent gagner des pièces en fonction de leur participation et de leur niveau de compétence.
-5. Les projets sont classés en fonction de leur état (idée, en cours, terminé) et de leur niveau de difficulté.
-6. Les utilisateurs peuvent rejoindre des projets en cours de développement et accéder à toutes les fonctionnalités nécessaires pour contribuer efficacement.
-7. Les projets terminés sont archivés et restent consultables pour référence future.
+4. Les projets sont classés en fonction de leur état (idée, en cours, terminé) et de leur niveau de difficulté.
+5. Les utilisateurs peuvent rejoindre des projets en cours de développement et accéder à toutes les fonctionnalités nécessaires pour contribuer efficacement.
+6. Les projets terminés sont archivés et restent consultables pour référence future.
 
 Tests :
 1. La fonctionnalité a été testée avec succès pour garantir son bon fonctionnement.
